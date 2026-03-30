@@ -3,7 +3,7 @@
 ### This was from Prof. Kim Byung-Gyu on 2024. 04. 21.
 ### Updated on 2025.03.17 by Prof. Kim Byung-Gyu 
 ### Updated on 2026.03.29 by Prof. Kim Byung-Gyu 
-
+#updated on 2026.03.30
 1. horse/bus.jpg :  test image files
 2. Inference_webcam_exam.py : we can make inference process via webcam.....!
 3. Inference_exam.py  : Inference process of the still image. You have to use -I option
